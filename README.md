@@ -1,5 +1,6 @@
 # Enterprise360-Manager Web Application
 Enterprise360 Management Web Application is a unified platform built to simplify core business operations, including customer management, inventory tracking, and order handling. It features secure authentication, role-based access control, and smooth integration with a MySQL database. Developed using Spring Boot and Thymeleaf, the application ensures an efficient and user-friendly experience for administrators, managers, and staff members.
+
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/53c9fb58-0ff2-4c8c-a52d-55388e1dc9ab" />
 
 ## Features :
